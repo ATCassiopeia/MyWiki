@@ -1,0 +1,10 @@
+@font-face{
+  font-famliy: "LXGW WenKai Mono";
+ src:"https://github.com/lxgw/LxgwWenKai/releases/download/v1.250/LXGWWenKaiMono-Regular.ttf";
+  }
+:root {
+  --md-text-font: "<font>"; 
+}
+:root {
+  --md-code-font: "<font>";
+}

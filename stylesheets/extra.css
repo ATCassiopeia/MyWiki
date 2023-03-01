@@ -1,0 +1,12 @@
+@font-face{
+  font-famliy: "LXGW WenKai Mono";
+ src:"LXGWWenKaiMono-Regular.ttf";
+  }
+
+  :root {
+    --md-text-font: "LXGW WenKai Mono"; 
+  }
+  
+  :root {
+  --md-code-font: "LXGW WenKai Mono";
+}
